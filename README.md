@@ -26,7 +26,7 @@ using the instructions from above. Each client will be assigned a
 server that is hosted at either 9004, 6005, 9006. For write requests, the client 
 will send data values from the specified input text input list.
 
-##Running Clients - Client.py
+## Running Clients - Client.py
 Run command python client.py --input_filename --num_readers --num_writers --read_requests
 1. Input File Name (String): Name of the critical section file or path
 2. Number of Readers (Int)
